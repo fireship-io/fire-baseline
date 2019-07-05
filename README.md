@@ -2,11 +2,11 @@
 
 Firebase setup examples for common frontend frameworks and libraries. 
 
-✅ Angular
-✅ Vue
-✅ React
-✅ Svelte
-✅ Flutter
+- ✅ Angular
+- ✅ Vue
+- ✅ React
+- ✅ Svelte
+- ✅ Flutter
 
 ## Example Usage
 
