@@ -1,0 +1,15 @@
+{
+  "name": "fire-baseline",
+  "version": "0.0.1",
+  "description": "Firebase setup instructions for major frontend frameworks and libraries.",
+  "scripts": {
+    "start": "concurrently npm:dev-*",
+    "dev-angular": "cd angular-app && npm start",
+    "dev-vue": "cd vue-app && npm run serve",
+    "dev-svelte": "cd svelte-app && npm run dev"
+  },
+  "author": "Jeff Delaney",
+  "devDependencies": {
+    "concurrently": "^4.1.1"
+  }
+}

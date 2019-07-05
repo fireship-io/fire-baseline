@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fireship-lessons": {
+      "hosting": {
+        "angular-app": [
+          "fireship-lessons"
+        ]
+      }
+    }
+  }
+}
